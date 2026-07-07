@@ -7,7 +7,7 @@ I am a Software Developer and Data Analyst bridging the gap between complex algo
 On the development side, I specialize in building scalable Front-End architectures using Angular 19. My core expertise lies in designing dynamic CRUD dashboards, structuring secure Role-Based Access Control (RBAC) environments, and orchestrating seamless RESTful API integrations to deliver highly responsive, data-driven web applications and WebGIS platforms. Complementing my web development toolkit, I leverage Python to perform complex data analysis, text preprocessing, and algorithmic feature extraction.
 
 📫 **Reach me at:** ouraniakapsala@gmail.com  
-🔗 **LinkedIn:** [www.linkedin.com/in/ourania-kapsala-b024a6356]
+🔗 **LinkedIn:** www.linkedin.com/in/ourania-kapsala-b024a6356
 
 ---
 d
