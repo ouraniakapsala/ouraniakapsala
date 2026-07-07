@@ -7,17 +7,17 @@ I am a Software Developer and Data Analyst bridging the gap between complex algo
 On the development side, I specialize in building scalable Front-End architectures using Angular 19. My core expertise lies in designing dynamic CRUD dashboards, structuring secure Role-Based Access Control (RBAC) environments, and orchestrating seamless RESTful API integrations to deliver highly responsive, data-driven web applications and WebGIS platforms. Complementing my web development toolkit, I leverage Python to perform complex data analysis, text preprocessing, and algorithmic feature extraction.
 
 📫 **Reach me at:** ouraniakapsala@gmail.com  
-🔗 **LinkedIn:** [Insert your LinkedIn URL here]
+🔗 **LinkedIn:** [www.linkedin.com/in/ourania-kapsala-b024a6356]
 
 ---
-
+d
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Front-End & Web:**  
@@ -62,9 +62,8 @@ On the development side, I specialize in building scalable Front-End architectur
 * Handled the API Integration, connecting the application with RESTful APIs to extract geospatial data and dynamically display locations using interactive map markers.
 
 #### ⚖️ +NOMOS: Legal Text Analytics
-*Python, Data Analysis, Algorithm Design*
+*Python, Junior Data Analysis, Algorithm Design*
 * Participated in the data preparation, cleaning, organization, and preprocessing of legal texts.
-* Contributed to designing and developing algorithms for automatically finding and matching relevant records, as well as designing a tool for displaying these records.
 * Programmed applications for extracting features from texts and researched techniques for organizing thematic categories.
 
 #### 🦅 AMVRADIA: Avian Flu Monitoring
@@ -84,7 +83,7 @@ On the development side, I specialize in building scalable Front-End architectur
 * **Software Developer** @ *Knowledge and Intelligent Computing Lab (UoI)* | Feb 2026 - May 2026 & Jul 2024 - Sep 2024
 * **Junior Data Analyst** @ *Knowledge and Intelligent Computing Lab (UoI)* | Jul 2025 - Dec 2025
 * **Software Developer** @ *Athena RC / INBIS* | Feb 2025 - May 2025
-* **Volunteer Data Researcher** @ *Interreg LIBECCIO* | Jul 2024 - Dec 2024
+* **Volunteer Data Researcher** @ *Interreg LIBECCIO* | Jul 2024 - Dec 2024 | Participation Badge: https://openbadgefactory.com/v1/assertion/fc60149d6aaa31b0634ba97d33cccb886409e1f3
 
 ---
 
