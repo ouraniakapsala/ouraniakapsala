@@ -44,7 +44,7 @@ On the development side, I specialize in building scalable Front-End architectur
 * Conducted a massive statistical validation involving **6,300 experiments** and **25,200 performance measurements** across 6 workflows and 5 scale sizes.
 * Demonstrated statistically significant superiority through the non-parametric Wilcoxon Signed-Rank Test.
 
-#### ♻️ CEI-BOOST: Agri-Food Waste Reduction Dashboard [https://www.cei-boost.gr/]
+#### ♻️ [CEI-BOOST: Agri-Food Waste Reduction Dashboard](https://www.cei-boost.gr/)
 *Angular 19, Role-Based Access Control (RBAC), RESTful APIs
 * Engineered a secure, multi-role CRUD dashboard (Admin, Producer, Agency) to optimize resources in the agri-food sector.
 * Handled complete API integration for real-time data exchange, visualization, and management.
