@@ -10,7 +10,7 @@ On the development side, I specialize in building scalable Front-End architectur
 🔗 **LinkedIn:** www.linkedin.com/in/ourania-kapsala-b024a6356
 
 ---
-d
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core:**  
