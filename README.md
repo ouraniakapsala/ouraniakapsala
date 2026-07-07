@@ -1,6 +1,6 @@
 # Hi there, I'm Ourania Kapsala 👋
 
-**Software Developer | M.Sc. in Informatics and Networks | WebGIS & Optimization Specialist**
+**Software Developer | WebGIS & Optimization Specialist | M.Sc. in Informatics and Networks **
 
 I am a Software Developer and Data Analyst bridging the gap between complex algorithmic research and modern software engineering. I hold a B.Sc. in Informatics and Telecommunications and recently completed my M.Sc. in Informatics and Networks with highest honors (9.75/10). During my graduate research, I engineered novel meta-heuristic algorithms (such as the EHHO-GWO hybrid) to solve NP-Hard resource allocation and workflow scheduling problems in Fog Computing environments.
 
