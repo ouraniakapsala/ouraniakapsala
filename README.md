@@ -14,10 +14,9 @@ On the development side, I specialize in building scalable Front-End architectur
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -45,7 +44,7 @@ On the development side, I specialize in building scalable Front-End architectur
 * Conducted a massive statistical validation involving **6,300 experiments** and **25,200 performance measurements** across 6 workflows and 5 scale sizes.
 * Demonstrated statistically significant superiority through the non-parametric Wilcoxon Signed-Rank Test.
 
-#### ♻️ CEI-BOOST: Agri-Food Waste Reduction Dashboard
+#### ♻️ CEI-BOOST: Agri-Food Waste Reduction Dashboard [https://www.cei-boost.gr/]
 *Angular 19, Role-Based Access Control (RBAC), RESTful APIs
 * Engineered a secure, multi-role CRUD dashboard (Admin, Producer, Agency) to optimize resources in the agri-food sector.
 * Handled complete API integration for real-time data exchange, visualization, and management.
